@@ -1,0 +1,5 @@
+div{
+    position: absolute;
+    width: calc(100% - 70%);
+    height: calc(100% - 70%);
+}

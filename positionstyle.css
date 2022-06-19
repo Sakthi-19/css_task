@@ -1,0 +1,20 @@
+#para1{
+    position:absolute;
+    top: 50px;
+}
+#para2{
+    position:absolute;
+    right: 500px;
+    top: 220px;
+}
+img{
+    position: absolute;
+    right: 100px;
+    top:220px;
+    width: 350px;
+    height: 250px;
+}
+#para3{
+    position:absolute;
+    bottom: 120px;
+}

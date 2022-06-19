@@ -1,5 +1,15 @@
 div{
     position: absolute;
-    width: calc(100% - 70%);
-    height: calc(100% - 70%);
+    width: 150px;
+    height: 150px;
+    color: darkgray;
+    background-color: black;
+    top: calc(100% - 480px);
+    right: calc(100% - 1550px);
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: 60px;
+    margin-right: auto;
 }

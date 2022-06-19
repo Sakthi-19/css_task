@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Joan';
+    src: url('./font/Joan-Regular.ttf');
+}
+p{
+    font-family: 'Joan';
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('./font/Ubuntu-Italic.ttf');
+}
+h1{
+    font-family: 'Noto Sans JP', sans-serif;
+}
